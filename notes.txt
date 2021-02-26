@@ -1,0 +1,3 @@
+Step a: setup express backend app
+step b: mess around with poke api, fetch data from pokeapi
+step c: display data 
